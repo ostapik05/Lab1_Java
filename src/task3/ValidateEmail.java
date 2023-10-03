@@ -22,7 +22,7 @@ public class ValidateEmail {
     }
 
     public static void main(final String[] args) {
-        final String email = "girniakostap@gmail.com!@..";
+        final String email = "girniakostap@gmail.com!@";
         System.out.println(validateEmail(email));
     }
 }

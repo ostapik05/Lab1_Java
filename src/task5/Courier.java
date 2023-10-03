@@ -5,7 +5,7 @@ public class Courier {
     public Courier(final String address){
         this.address = address;
     }
-    public String getAddress(){
+    public String getAddress() {
         return address;
     }
 }

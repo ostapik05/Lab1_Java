@@ -2,7 +2,6 @@ package task2;
 
 public class SortingArray {
 
-    // Method for counting the number of capital letters in a line
     private static int countUpperCaseLetters(final String s) {
         int count = 0;
         for (final char c : s.toCharArray()) {
